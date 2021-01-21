@@ -1,5 +1,6 @@
 # The purpose of this bot is to cick the first black pixel.
 # Testing a change here done by Git. 
+# changes through branches
 
 import pyautogui
 import keyboard
